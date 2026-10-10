@@ -1,0 +1,5 @@
+Contact: mailto:keamanan@catatke.com
+Expires: 2027-10-11T00:00:00.000Z
+Preferred-Languages: id, en
+Canonical: https://catatke.com/.well-known/security.txt
+Policy: https://catatke.com/keamanan#lapor
